@@ -15,7 +15,6 @@ The objective of this component is to adapt the pre-trained source model and con
 * Fine-tuned Model GRU network
 * Fine-tuned Controller GRU network 
 * Fine-tuning loss evolution plots
-* Representative tracking performance plot
 * Feasible data generation trajectories
 * Normalization statistics for the target dataset
 
@@ -32,7 +31,3 @@ The objective of this component is to adapt the pre-trained source model and con
 ### Controller Fine-Tuning Performance
 
 ![Fine-Tuning Controller Loss](finetuning_controller_loss.png)
-
-### Target Plant Tracking
-
-![Fine-Tuned Tracking](Results/finetuned_tracking.png)
