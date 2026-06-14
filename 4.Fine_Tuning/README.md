@@ -17,6 +17,7 @@ The objective of this component is to adapt the pre-trained source model and con
 * Fine-tuning loss evolution plots
 * Representative tracking performance plot
 * Feasible data generation trajectories
+* Normalization statistics for the target dataset
 
 ## Representative Results
 
