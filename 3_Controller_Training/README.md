@@ -6,7 +6,7 @@ The objective of this component is to train a GRU-based controller capable of tr
 
 ## Inputs
 
-* Open-loop training and validation datasets
+* Open-loop datasets
 * Normalization statistics
 * Trained GRU model 
 
