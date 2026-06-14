@@ -31,7 +31,7 @@ The objective of this component is to adapt the pre-trained source model and con
 
 ### Controller Fine-Tuning Performance
 
-![Fine-Tuning Controller Loss](Results/finetuning_controller_loss.png)
+![Fine-Tuning Controller Loss](finetuning_controller_loss.png)
 
 ### Target Plant Tracking
 
