@@ -27,7 +27,7 @@ Amplitude-Modulated Pseudo-Random Binary Signal input trajectories are generated
 
 ### Open-Loop Trajectory
 
-![Open Loop](Results/open_loop_trajectory.png)
+![Open Loop](open_loop_trajectory.png)
 
 The figure above illustrates a representative trajectory generated during the open-loop simulation stage.
 
