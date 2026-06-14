@@ -16,7 +16,7 @@ Train a GRU model using open-loop data.
 ## Representative Results
 
 ### Training Loss
-[figure]
+2_Model_Training/Representative_test_sequence.png
 
 ### Model Prediction
 [figure]
