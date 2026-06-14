@@ -19,10 +19,6 @@ None.
 - normalization_stats.csv
 - Representative open-loop trajectory
 
-## Methodology
-
-Amplitude-Modulated Pseudo-Random Binary Signal input trajectories are generated and applied to the CSTR model. The resulting  outputs are collected and normalized for subsequent model training.
-
 ## Representative Results
 
 ### Open-Loop Trajectory
@@ -30,11 +26,3 @@ Amplitude-Modulated Pseudo-Random Binary Signal input trajectories are generated
 ![Open Loop](open_loop_trajectory.png)
 
 The figure above illustrates a representative trajectory generated during the open-loop simulation stage.
-
-## Dependencies
-
-- NumPy
-- SciPy
-- Matplotlib
-- Sklearn
-- Pandas
