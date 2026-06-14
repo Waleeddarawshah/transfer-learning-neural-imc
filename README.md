@@ -18,7 +18,7 @@ The outcome of this component is a fully trained GRU controller network develope
 
 ## (4) Fine-Tuning
 
-The outcome of this component is the generation of a fine-tuned Model GRU network and Controller GRU network for the target plant. This code takes the pre-trained `.pth` files generated during the Model Training and Controller Training stages and outputs updated `.pth` files containing the optimized parameters obtained during fine-tuning. It also generates feasible data generation curves depicting the filtered trajectories, training and validation loss evolution plots, and graphical results demonstrating controller performance on representative test sequences.
+The outcome of this component is the generation of a fine-tuned Model GRU network and Controller GRU network for the target plant. This code takes the pre-trained `.pth` files generated during the Model Training and Controller Training stages and outputs updated `.pth` files containing the optimized parameters obtained during fine-tuning. It also generates feasible data generation curves depicting the filtered trajectories, and training and validation loss evolution plots.
 
 ## (5) Closed-Loop Simulation
 
