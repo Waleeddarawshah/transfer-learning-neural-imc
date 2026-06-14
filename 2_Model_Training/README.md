@@ -19,5 +19,6 @@ Train a GRU model using open-loop data.
 ![Model Training Loss](model_training_loss.png)
 
 ### Model Prediction
-![Representative Test Sequence](representative_test_sequence.png)
+![Representative Test Sequence](Representative_test_sequence.png)
+
 
