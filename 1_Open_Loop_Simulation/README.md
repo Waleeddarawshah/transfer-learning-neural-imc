@@ -36,5 +36,5 @@ The figure above illustrates a representative trajectory generated during the op
 - NumPy
 - SciPy
 - Matplotlib
-- sklearn
+- Sklearn
 - Pandas
