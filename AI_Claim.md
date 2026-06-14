@@ -1,3 +1,1 @@
-It is important to note that Codex, a large language model available through ChatGPT 5.5, 
-was used to assist in the development of the code contained within this repository.
-The model was primarily utilized as a programming aid for code generation and debugging.
+It is important to note that Codex, a large language model available through ChatGPT 5.5,  was used to assist in the development of the code contained within this repository. The model was primarily utilized as a programming aid for code generation and debugging.
