@@ -4,12 +4,12 @@
 Train a GRU model using open-loop data.
 
 ## Inputs
-- Training sequences (.npy)
-- Validation sequences (.npy)
-- Normalization statistics (.csv)
+- Training sequences 
+- Validation sequences 
+- Normalization statistics 
 
 ## Outputs
-- Trained model (.pth)
+- Trained model 
 - Loss curves
 - FIT metrics
 
