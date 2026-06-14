@@ -4,8 +4,7 @@
 Train a GRU model using open-loop data.
 
 ## Inputs
-- Training sequences 
-- Validation sequences 
+- Open-loop datasets
 - Normalization statistics 
 
 ## Outputs
