@@ -1,11 +1,6 @@
-# ============================================================
-# CONTROLLER TRAINING FOR SINGLE-BRANCH IMC-NN
-# ============================================================
-
 from pathlib import Path
 import copy
 import random
-
 import numpy as np
 import pandas as pd
 import torch
@@ -13,10 +8,6 @@ import torch.nn as nn
 import torch.optim as optim
 import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader, TensorDataset
-
-# ============================================================
-# 0. CONFIG
-# ============================================================
 
 SEED = 42
 random.seed(SEED)
