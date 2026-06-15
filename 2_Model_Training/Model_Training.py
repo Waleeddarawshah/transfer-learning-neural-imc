@@ -50,7 +50,7 @@ WASHOUT = 100
 RHO = 2e-4
 ISS_RAMP_EPOCHS = 100
 
-EARLY_STOPPING_PATIENCE = 25
+EARLY_STOPPING_PATIENCE = 100
 BEST_MIN_DELTA = 1e-7
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
