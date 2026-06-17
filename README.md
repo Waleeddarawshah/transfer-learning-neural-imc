@@ -1,4 +1,4 @@
-# Transfer Learning for Neural Network Internal Model Control of Chemical Processes
+# An Evaluation of Transfer Learning for Neural Network Internal Model Control of Chemical Processes
 
 This repository contains the code developed during Waleed Al-Darawshah's Bachelor End Project research. It accompanies the final report submission and provides readers with additional context, implementation details, and reproducible materials supporting the project's methodology, analysis, and final findings.
 
